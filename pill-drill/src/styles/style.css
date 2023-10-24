@@ -19,9 +19,3 @@ body, html {
     padding: 0; /* Asegura que no haya relleno */
   }
 
-@media screen and (max-width:700px) {
-  .container{
-  display: inline-block;
-}
-  
-}
